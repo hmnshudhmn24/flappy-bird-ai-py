@@ -34,6 +34,3 @@ python flappy_bird_ai.py
 - The AI starts with a random population of birds.
 - Birds learn over generations by evolving through NEAT.
 - The best-performing birds survive and improve their strategy.
-
-## License
-This project is open-source and free to use.
